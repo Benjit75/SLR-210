@@ -1,5 +1,5 @@
 # SLR-210: Blockchain: algorithmic basics
-Repository for my work over the 2nd year course IMA-208 at Télécom Paris
+Repository for my work over the 2nd year course SLR-210 at Télécom Paris
 
 Understanding of the algorithmic foundations behind the blockchain technology:
 
